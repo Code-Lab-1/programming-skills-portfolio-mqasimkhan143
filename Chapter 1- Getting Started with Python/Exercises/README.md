@@ -19,7 +19,7 @@ Twinkle, twinkle, little star,
 	How I wonder what you are
 
 &nbsp;
-&nbsp;
+&nbsp; 
 &nbsp;
 ## Exercise 2: Print the Version of Python :ballot_box_with_check:
 
