@@ -14,4 +14,4 @@ for i in range(0, n):
 print("Your finished sandwiches:")    
 print(finished_sandwiches) 
 print("now pending orders:")
-print(sandwich_order)     
+print(sandwich_order)
