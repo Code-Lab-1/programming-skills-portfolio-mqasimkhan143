@@ -1,0 +1,15 @@
+##exercise 7:
+place = ["japan", "russia","canada","austria","greenland"]
+print(place)
+z = sorted(place)
+print(z)
+print(place)
+y = sorted(z, reverse=True)
+print(y)
+x = sorted(y, reverse=False)
+print(x)
+print(place)
+place.sort(reverse=False)
+print(place)
+place.sort(reverse=True)
+print(place)
