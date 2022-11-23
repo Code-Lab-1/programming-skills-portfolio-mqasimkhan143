@@ -1,0 +1,4 @@
+def prod(x,y):
+  produ = x * y
+  print(produ)
+prod(8,9) 
